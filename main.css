@@ -1,19 +1,31 @@
 
 #sb1{
-font-size: 150px;
-float: left;
-width: 30%;
-height: 40%;
-background-color: crimson;
 
+float: left;
+width: 20%;
+height: 200px;
+background-color: crimson;
 }
 
 #sb2{
-font-size: 150px;
+
 float: right;
-width: 70%;
-height: 50%;
+width: 80%;
+height: 200px;
 background-color: brown;
+}
 
+#intro{
+background-color: cadetblue;
+border-left: 0px;
+height: 300px;
+width: 100%;
+border-top: 0px;
+}
 
+.img{
+width: 150px;
+height: 150px;
+padding-left: 25px;
+padding-top: 25px;
 }

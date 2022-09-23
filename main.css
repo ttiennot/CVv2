@@ -49,7 +49,7 @@ color: white;
 .txtIntro{
 color: black;
 font-size: 15px;
-padding-top: 17.5%;
+padding-top: 12.5%;
 padding-left: 20px;
 }
 
@@ -61,4 +61,27 @@ padding-left: 20px;
 .txtForm{
     font-weight: 1000;
     padding-left: 20px;
+    font-size: 20px;
+}
+
+#txtBac1{
+    float: left;
+    font-size: 15px;
+    width: 300px;
+    padding-left: 20px;
+    background-color: blueviolet;
+
+
+}
+
+#txtBrevet1{
+    float: right;
+    font-size: 15px;
+    width: 300px;
+    background-color: aqua;
+
+}
+
+#textForm2{
+
 }

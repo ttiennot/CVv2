@@ -1,31 +1,64 @@
-
 #sb1{
-
 float: left;
 width: 20%;
 height: 200px;
-background-color: crimson;
+background-color: rgb(47, 75, 87);
 }
 
 #sb2{
-
 float: right;
 width: 80%;
 height: 200px;
-background-color: brown;
+background-color: rgb(47, 75, 87);
 }
 
 #intro{
-background-color: cadetblue;
 border-left: 0px;
 height: 300px;
 width: 100%;
 border-top: 0px;
+
 }
 
 .img{
-width: 150px;
-height: 150px;
-padding-left: 25px;
-padding-top: 25px;
+width: 185px;
+height: 185px;
+border-radius: 50%;
+display: flex;
+margin: auto;
+padding-top: 2%;
+}
+
+.name{
+font-size: 30px;
+padding-top: 0px;
+color: white;
+}
+
+.surname{
+font-size: 30px;
+color: white;
+}
+
+.phrase{
+font-size: 20px;
+color: white;
+
+}
+
+.txtIntro{
+color: black;
+font-size: 15px;
+padding-top: 17.5%;
+padding-left: 20px;
+}
+
+.formation{
+
+    
+}
+
+.txtForm{
+    font-weight: 1000;
+    padding-left: 20px;
 }

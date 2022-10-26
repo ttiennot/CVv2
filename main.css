@@ -19,10 +19,6 @@ width: 100%;
 background-color: red;
 }
 
-.intro{
-    
-}
-
 .img{
 width: 185px;
 height: 185px;
@@ -52,6 +48,7 @@ color: white;
 .txtIntro{
 color: black;
 font-size: 15px;
+padding-left: 20px;
 }
 
 #formation{
@@ -62,15 +59,14 @@ font-size: 15px;
 
 .txtForm{
     font-weight: 100px;
-    padding-left: 20px;
     font-size: 20px;
+    padding-left: 20px;
 }
 
 #Bac1{
     float: left;
     font-size: 15px;
     width: 20%;
-    padding-left: 20px;
     background-color: blueviolet;
 
 
@@ -81,19 +77,21 @@ font-size: 15px;
     font-size: 15px;
     width: 50%;
     background-color: aqua;
-    padding-left: 20px;
 
 }
 
 .txtBac1-1{
+    padding-left: 20px;
     
 }
 
 .txtBac1-2{
+    padding-left: 20px;
 
 }
 
 .txtBac1-3{
+    padding-left: 20px;
 
 }
 
@@ -113,12 +111,12 @@ font-size: 15px;
     float: left;
     width: 100%;
     background-color: rgb(136, 215, 40);
-    padding-left: 20px;
 }
 
 .txtComp{
     font-weight: 100px;
     font-size: 20px;
+    padding-left: 20px;
 }
 
 #Comp1{
@@ -204,14 +202,54 @@ font-size: 15px;
     float: left;
     background-color: brown;
     width: 100%;
-    padding-left: 20px;
 }
 
 .txtExpPro{
     font-weight: 100px;
     font-size: 20px;
+    padding-left: 20px;
 }
 
 .txtAmundi{
+    padding-left: 20px;
+}
+
+.txtDate{
+    padding-left: 20px;
+}
+
+#liste{
+    padding-left: 20px;
+}
+
+#conteneur{
+    float: left;
+    background-color: tomato;
+    height: 120px;
+    width: 100%;
+    
 
 }
+
+#langues{
+    float: left;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(47, 75, 87);
+}
+
+.txtlangues{
+    padding-left: 20px;
+}
+
+#centresInt{
+    float: right;
+    height: 100%;
+    width: 50%;
+    background-color: rgb(28, 183, 100);
+}
+
+.txtcentresInt{
+    padding-left: 20px;
+}
+

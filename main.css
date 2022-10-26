@@ -13,11 +13,14 @@ background-color: rgb(47, 75, 87);
 }
 
 #intro{
-border-left: 0px;
-height: 300px;
+float: left;
+height: 50px;
 width: 100%;
-border-top: 0px;
+background-color: red;
+}
 
+.intro{
+    
 }
 
 .img{
@@ -49,39 +52,151 @@ color: white;
 .txtIntro{
 color: black;
 font-size: 15px;
-padding-top: 12.5%;
-padding-left: 20px;
 }
 
-.formation{
-
-    
+#formation{
+    float: left;
+    background-color: brown;
+    width: 100%;
 }
 
 .txtForm{
-    font-weight: 1000;
+    font-weight: 100px;
     padding-left: 20px;
     font-size: 20px;
 }
 
-#txtBac1{
+#Bac1{
     float: left;
     font-size: 15px;
-    width: 300px;
+    width: 20%;
     padding-left: 20px;
     background-color: blueviolet;
 
 
 }
 
-#txtBrevet1{
+#Brevet1{
     float: right;
     font-size: 15px;
-    width: 300px;
+    width: 50%;
     background-color: aqua;
+    padding-left: 20px;
 
 }
 
-#textForm2{
+.txtBac1-1{
+    
+}
+
+.txtBac1-2{
 
 }
+
+.txtBac1-3{
+
+}
+
+.txtBrevet1-1{
+
+}
+
+.txtBrevet1-2{
+
+}
+
+.txtBrevet1-3{
+
+}
+
+#Comp{
+    float: left;
+    width: 100%;
+    background-color: rgb(136, 215, 40);
+    padding-left: 20px;
+}
+
+.txtComp{
+    font-weight: 100px;
+    font-size: 20px;
+}
+
+#Comp1{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+
+}
+.txtComp1{
+    
+}
+
+#Comp2{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+}
+.txtComp2{
+    
+}
+
+#Comp3{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+}
+.txtComp3{
+    
+}
+
+#Comp4{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+}
+.txtComp4{
+    
+}
+
+#Comp5{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+}
+.txtComp5{
+    
+}
+
+#Comp6{
+    width:30%;
+    height:100px;
+    float: left;
+    background-color: blue;
+    top: 20px;
+    left: 20px;
+    padding-left: 20px;
+}
+.txtComp6{
+    
+}
+

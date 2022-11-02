@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Droid-Sans-Bold';
+    src:url('Droid-Sans-Bold.ttf.woff') format('woff');
+        url('Droid-Sans-Bold.ttf.svg#Droid-Sans-Bold') format('svg');
+        url('Droid-Sans-Bold.ttf.eot');
+        url('Droid-Sans-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+        font-weight: normal;
+        font-style: normal;
+}
+
+
 #sb1{
 float: left;
 width: 20%;
@@ -32,16 +43,21 @@ padding-top: 2%;
 font-size: 30px;
 padding-top: 0px;
 color: white;
+font-family: 'Droid-Sans-Bold';
 }
 
 .surname{
 font-size: 30px;
 color: white;
+font-family: 'Droid-Sans-Bold';
 }
 
 .phrase{
 font-size: 20px;
 color: white;
+font-family: dita, sans-serif;
+font-style: normal;
+font-weight: 300;
 
 }
 
@@ -49,6 +65,9 @@ color: white;
 color: black;
 font-size: 15px;
 padding-left: 20px;
+font-family: dita, sans-serif;
+font-style: normal;
+font-weight: 300;
 }
 
 #formation{
@@ -61,12 +80,15 @@ padding-left: 20px;
     font-weight: 100px;
     font-size: 20px;
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Bac1{
     float: left;
     font-size: 15px;
-    width: 20%;
+    width: 30%;
     background-color: blueviolet;
 
 
@@ -82,29 +104,45 @@ padding-left: 20px;
 
 .txtBac1-1{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
     
 }
 
 .txtBac1-2{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 
 }
 
 .txtBac1-3{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 
 }
 
 .txtBrevet1-1{
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 
 }
 
 .txtBrevet1-2{
-
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 .txtBrevet1-3{
-
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp{
@@ -117,6 +155,9 @@ padding-left: 20px;
     font-weight: 100px;
     font-size: 20px;
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp1{
@@ -130,7 +171,9 @@ padding-left: 20px;
 
 }
 .txtComp1{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp2{
@@ -143,7 +186,9 @@ padding-left: 20px;
     padding-left: 20px;
 }
 .txtComp2{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp3{
@@ -156,7 +201,9 @@ padding-left: 20px;
     padding-left: 20px;
 }
 .txtComp3{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp4{
@@ -169,7 +216,9 @@ padding-left: 20px;
     padding-left: 20px;
 }
 .txtComp4{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp5{
@@ -182,7 +231,9 @@ padding-left: 20px;
     padding-left: 20px;
 }
 .txtComp5{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #Comp6{
@@ -195,7 +246,9 @@ padding-left: 20px;
     padding-left: 20px;
 }
 .txtComp6{
-    
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #ExpPro{
@@ -208,14 +261,23 @@ padding-left: 20px;
     font-weight: 100px;
     font-size: 20px;
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 .txtAmundi{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 .txtDate{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #liste{
@@ -240,6 +302,9 @@ padding-left: 20px;
 
 .txtlangues{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #centresInt{
@@ -251,12 +316,15 @@ padding-left: 20px;
 
 .txtcentresInt{
     padding-left: 20px;
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }
 
 #contact{
     float: left;
     width: 100%;
-    height: 100px;
+    height: 60px;
     background-color: rgb(47, 75, 87);
     color: white;
 }
@@ -264,21 +332,21 @@ padding-left: 20px;
 .tel{
     float: left;
     width: 25%;
-    padding-left: 150px;
+    padding-left: 7%;
     font-size: 20px;
 }
 
 .mail{
     float: left;
     width: 25%;
-    padding-left: 150px;
+    padding-left: 7%;
     font-size: 20px;
 }
 
 .ville{
     float: left;
     width: 25%;
-    padding-left: 150px;
+    padding-left: 7%;
     font-size: 20px;
 }
 
@@ -290,4 +358,10 @@ padding-left: 20px;
 .barre2{
     float: left;
     font-size: 20px;
+}
+
+li{
+    font-family: dita, sans-serif;
+    font-style: normal;
+    font-weight: 300;
 }

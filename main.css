@@ -27,7 +27,6 @@ background-color: rgb(47, 75, 87);
 float: left;
 height: 50px;
 width: 100%;
-background-color: red;
 }
 
 .img{
@@ -62,7 +61,7 @@ font-weight: 300;
 }
 
 .txtIntro{
-color: black;
+
 font-size: 15px;
 padding-left: 20px;
 font-family: dita, sans-serif;
@@ -72,7 +71,6 @@ font-weight: 300;
 
 #formation{
     float: left;
-    background-color: brown;
     width: 100%;
 }
 
@@ -89,17 +87,12 @@ font-weight: 300;
     float: left;
     font-size: 15px;
     width: 30%;
-    background-color: blueviolet;
-
-
 }
 
 #Brevet1{
     float: right;
     font-size: 15px;
     width: 50%;
-    background-color: aqua;
-
 }
 
 .txtBac1-1{
@@ -148,7 +141,6 @@ font-weight: 300;
 #Comp{
     float: left;
     width: 100%;
-    background-color: rgb(136, 215, 40);
 }
 
 .txtComp{
@@ -164,7 +156,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -180,7 +171,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -195,7 +185,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -210,7 +199,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -225,7 +213,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -240,7 +227,6 @@ font-weight: 300;
     width:30%;
     height:100px;
     float: left;
-    background-color: blue;
     top: 20px;
     left: 20px;
     padding-left: 20px;
@@ -253,7 +239,6 @@ font-weight: 300;
 
 #ExpPro{
     float: left;
-    background-color: brown;
     width: 100%;
 }
 
@@ -286,7 +271,6 @@ font-weight: 300;
 
 #conteneur{
     float: left;
-    background-color: tomato;
     height: 120px;
     width: 100%;
     
@@ -297,7 +281,6 @@ font-weight: 300;
     float: left;
     height: 100%;
     width: 50%;
-    background-color: rgb(219, 194, 30);
 }
 
 .txtlangues{
@@ -311,7 +294,6 @@ font-weight: 300;
     float: right;
     height: 100%;
     width: 50%;
-    background-color: rgb(28, 183, 100);
 }
 
 .txtcentresInt{

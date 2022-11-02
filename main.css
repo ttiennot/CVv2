@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Droid-Sans-Bold';
-    src:url('Droid-Sans-Bold.ttf.woff') format('woff');
-        url('Droid-Sans-Bold.ttf.svg#Droid-Sans-Bold') format('svg');
-        url('Droid-Sans-Bold.ttf.eot');
+    src:url('Droid-Sans-Bold.ttf.woff') format('woff'),
+        url('Droid-Sans-Bold.ttf.svg#Droid-Sans-Bold') format('svg'),
+        url('Droid-Sans-Bold.ttf.eot'),
         url('Droid-Sans-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
         font-weight: normal;
         font-style: normal;
